@@ -2,8 +2,7 @@
 ====================================================
 # To Upload GUI to Raspberry Pi:
 	-> Perform a git clone for this repository on the Raspi or copy the ThreePhase.py and .ui files to the Raspi. 
-	As long as the .py and .ui files are in the same dir the GUI can
-	be run using a terminal call: sudo python3 ThreePhase.py
+	As long as the .py and .ui files are in the same dir the GUI can be run using a terminal call: sudo python3 ThreePhase.py
 # To Load the CCS Project onto the Launchpad:
 	-> Locate the SignalAnalysisStation_ThreePhaseGen zip foler in this repo.
 	-> Unzip this file.
